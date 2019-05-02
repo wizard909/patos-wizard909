@@ -10,5 +10,5 @@ public abstract class Pato {
         System.out.println("Nado como un pato");
     }
 
-    public abstract void display();
+    public abstract void dibujar();
 }
